@@ -9,4 +9,4 @@ git clone https://github.com/PanDanil-prog/UCar.git
 cd UCar
 
 # Запустить сервисы
-docker-compose up --build
+docker-compose up --build -d
